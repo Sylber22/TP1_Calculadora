@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536296861 source:d:\utn\laboratorio1\hkuk\calculadorabertello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1536296861 d:\utn\laboratorio1\hkuk\calculadorabertello\calculadora.h
+
